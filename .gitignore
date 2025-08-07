@@ -1,6 +1,0 @@
-echo "venv/
-node_modules/
-*.pyc
-.env
-__pycache__/" > .gitignore
-cat .gitignore
