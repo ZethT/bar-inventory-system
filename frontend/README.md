@@ -1,5 +1,10 @@
 # Bar Inventory Management System
 
+
+## Authentication
+    The user name and password can be found in the sql folder, for quick login access, use the following username and password to login to the system after populate the data
+    (Admin) Username: admin1, Passowrod: password
+    (Staff) Username: staff1, Passowrod: password
 ## Overview
 
 The Bar Inventory Management System is a web-based application for managing a bar's inventory, orders, and staff operations.
